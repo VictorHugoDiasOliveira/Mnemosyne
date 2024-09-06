@@ -12,7 +12,7 @@ Mnemosyne is a repository dedicated to storing and sharing comprehensive knowled
 To get started with **Mnemosyne**, follow these steps:
 
 1. **Clone the Repository**:
-    ```bash
+    ```
     git clone https://github.com/yourusername/Mnemosyne.git
     ```
 
@@ -24,7 +24,7 @@ To get started with **Mnemosyne**, follow these steps:
 
 ## Contact
 
-For any questions or feedback, please contact me at [https://www.linkedin.com/in/victor-oliveira-523689220/].
+For any questions or feedback, please contact me at [Linkedin](https://www.linkedin.com/in/victor-oliveira-523689220/).
 
 ---
 
